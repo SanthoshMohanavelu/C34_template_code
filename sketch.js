@@ -5,7 +5,7 @@ const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 const Body = Matter.Body;
 const Composites = Matter.Composites;
-const Composite = Matter.Composite;
+const Composite = Matter.Composite
 
 let engine;
 let world;
